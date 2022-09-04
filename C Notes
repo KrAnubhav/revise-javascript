@@ -26,5 +26,13 @@ console.log(final);
 let check= null;
 console.log(check);
 
+console.log('try to revise operators');
+console.log(2+3);
+console.log(2-3);
+console.log(3-2);
+console.log(2*3);
+console.log(3/2);
+console.log(3%2);
+
 
 
