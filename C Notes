@@ -1,0 +1,30 @@
+/* let first= 'hello world';
+let number= 69;
+console.log(first);
+console.log(number);
+console.log(66);
+console.log('hello world again'); 
+console.log()
+console.log("lets try to learn about lenght variable" )
+console.log(first.length);
+console.log('Hii i am anubhav' .length);
+console.log()
+console.log('lets try to learn' + 'about bollean variable')
+let latetowork= true;
+let morningperson= false;
+console.log(latetowork);
+console.log(morningperson);
+*/
+
+console.log('//learn some useful keywords')
+console.log(Math.random());
+let value= 6.74
+let final= Math.floor(value);
+//console.log(Math.floor(6.868));
+//console.log(Math.floor(value));
+console.log(final);
+let check= null;
+console.log(check);
+
+
+
